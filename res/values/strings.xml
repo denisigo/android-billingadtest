@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Denisigo Billing &amp; Ad Test</string>
+    <string name="title_activity_main">Denisigo Billing &amp; Ad Test</string>
+    <string name="hello_world">Hello world! You can hide the advertising by upgrading to Premium status.</string>
+    <string name="upgrade_to_premium">Upgrade To Premium</string>
+    <string name="you_have_premium_status">You Have Premium Status</string>
+    
+    <string name="ad_unit_id">TODO: place here your ad unit ID</string>
+        
+
+</resources>
